@@ -1,7 +1,8 @@
 """
-telegram_sender.py
+telegram_sender.py - отправки содержимого текстового файла в приватный Telegram-чат через бота
 Автор: Vadik (Shutnik8)
 Лицензия: См. файл LICENSE.md
+Версия: 1.0 (январь 2025)
 """
 
 import requests
