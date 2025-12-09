@@ -3,8 +3,8 @@
 ## Два демонстрационных скрипта на Python: знакомство с возможностями языка и Telegram‑ботов.
 Эти скрипты созданы для ознакомления с базовыми возможностями Python и разработкой простых Telegram‑ботов:
 
-1. **email_checker.py** - Проверка MX-записей email-адресов
-2. **telegram_sender.py** - Отправка текста из файлов в Telegram через бота
+1. **[email_checker.py](https://github.com/Shutnik8/For_My_Portfolio/blob/master/01_Email_domain_verification/email_checker.py)** - Проверка MX-записей email-адресов
+2. **[telegram_sender.py](https://github.com/Shutnik8/For_My_Portfolio/blob/master/02_Telegram_Sender/telegram_sender.py)** - Отправка текста из файлов в Telegram через бота
 
 ---
 
@@ -123,10 +123,10 @@ pip install -r requirements.txt
 ## 📖 Подробная документация
 
 ### Для email_checker.py
-Полная документация доступна в [README.md](README.md)
+Полная документация доступна в [README.md](https://github.com/Shutnik8/For_My_Portfolio/blob/master/01_Email_domain_verification/README.md)
 
 ### Для telegram_sender.py
-Полная документация доступна в [README.md](READM.md)
+Полная документация доступна в [README.md](https://github.com/Shutnik8/For_My_Portfolio/blob/master/02_Telegram_Sender/README.md)
 
 ---
 
@@ -163,8 +163,8 @@ pip install -r requirements.txt
 - Использование для незаконных целей
 
 ### Полные тексты лицензий:
-- [Лицензия email_checker.py](email-checker/LICENSE.md)
-- [Лицензия telegram_sender.py](telegram-sender/LICENSE.md)
+- [Лицензия email_checker.py](https://github.com/Shutnik8/For_My_Portfolio/blob/master/01_Email_domain_verification/LICENSE.md)
+- [Лицензия telegram_sender.py](https://github.com/Shutnik8/For_My_Portfolio/blob/master/02_Telegram_Sender/LICENSE.md)
 
 **Важно:** Скрипты предоставляются "как есть" (AS IS). Автор не несёт ответственности за любой ущерб, возникший при использовании.
 
