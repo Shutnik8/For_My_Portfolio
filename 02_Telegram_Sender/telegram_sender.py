@@ -1,6 +1,6 @@
 """
 telegram_sender.py
-Автор: Вадик (Shutnik8)
+Автор: Vadik (Shutnik8)
 Лицензия: См. файл LICENSE.md
 """
 
